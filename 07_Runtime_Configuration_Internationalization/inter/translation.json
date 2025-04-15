@@ -1,0 +1,11 @@
+{
+    "en": {
+    "greeting": "Hello, {name}!",
+    "farewell": "Goodbye, {name}!",
+    "welcome": "Welcome to our application, {name}!"
+},
+"id": {
+    "greeting": "Halo, ",
+    "thanks": "Terima kasih," 
+}
+}

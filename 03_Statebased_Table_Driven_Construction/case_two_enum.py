@@ -16,3 +16,4 @@ add_patients("Siti", jenis_kelamin.wanita)
 
 for patient in patients:
     print(f"{patient['name']} adalah {patient['gender']}")
+

@@ -1,0 +1,9 @@
+Metadata-Version: 2.4
+Name: simple_calculator
+Version: 0.1
+Summary: A simple calculator package
+Author: Your Name
+Author-email: @pppp.com
+Dynamic: author
+Dynamic: author-email
+Dynamic: summary
